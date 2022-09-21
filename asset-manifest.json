@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/helpich/static/css/main.c92f0af0.css",
-    "main.js": "/helpich/static/js/main.f6751a2d.js",
+    "main.css": "/helpich/static/css/main.5d1aa2d4.css",
+    "main.js": "/helpich/static/js/main.29a28909.js",
     "static/media/cv.pdf": "/helpich/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/city.jpg": "/helpich/static/media/city.d5e55a75abc903e43d8f.jpg",
     "static/media/bg-2-01.png": "/helpich/static/media/bg-2-01.deef7258c43c8d4c131b.png",
@@ -10,11 +10,11 @@
     "static/media/portfolio1.jpg": "/helpich/static/media/portfolio1.4fe1fc3f8cbb7f769b76.jpg",
     "static/media/portfolio2.jpg": "/helpich/static/media/portfolio2.a6ab0abe1a662cb84ccc.jpg",
     "index.html": "/helpich/index.html",
-    "main.c92f0af0.css.map": "/helpich/static/css/main.c92f0af0.css.map",
-    "main.f6751a2d.js.map": "/helpich/static/js/main.f6751a2d.js.map"
+    "main.5d1aa2d4.css.map": "/helpich/static/css/main.5d1aa2d4.css.map",
+    "main.29a28909.js.map": "/helpich/static/js/main.29a28909.js.map"
   },
   "entrypoints": [
-    "static/css/main.c92f0af0.css",
-    "static/js/main.f6751a2d.js"
+    "static/css/main.5d1aa2d4.css",
+    "static/js/main.29a28909.js"
   ]
 }
